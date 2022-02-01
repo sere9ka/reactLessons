@@ -1,0 +1,25 @@
+{
+  "name": "react-lessons",
+  "version": "1.0.0",
+  "description": "my lessons",
+  "main": "script.js",
+  "dependencies": {
+    "eslint": "^8.8.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-react": "^7.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sere9ka/reactLessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sere9ka/reactLessons/issues"
+  },
+  "homepage": "https://github.com/sere9ka/reactLessons#readme"
+}
